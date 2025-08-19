@@ -13,7 +13,7 @@ Chat on Esp32 WiFi In Captive Portal
 # Fast Chat
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-WiFi-Chat/refs/heads/main/Files/ScreenShot2.jpg"></img>
 
-<h1> This is Username Feature & Duplicate username not allowed</h1>
+This is Username Feature & Duplicate username not allowed
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-WiFi-Chat/refs/heads/main/Files/ScreenShot.jpg"></img>
 
 
@@ -21,4 +21,4 @@ Chat on Esp32 WiFi In Captive Portal
 
 Many Users Can Chat 
 
-<h1>Created By Krishna Rajput UP61</h1>
+<h2>Created By Krishna Rajput UP61</h2>
