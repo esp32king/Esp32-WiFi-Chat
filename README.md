@@ -9,4 +9,4 @@ Chat on Esp32 WiFi In Captive Portal
 <a href="https://github.com/esp32king/Esp32-WiFi-Chat/raw/refs/heads/main/Esp32-WiFi-Chat-On-Captive-Portal.bin">ESP32-WiFi-Chat.bin</a> → 0x10000
 
 
-👉 Agar aap sirf apna code (sketch) flash karna chahte ho dusre ESP32 me, to sirf sketchname.ino.bin file ko 0x10000 address par flash karna enough hai.
+👉 Agar aap sirf apna code (sketch) flash karna chahte ho dusre ESP32 me, to sirf <a href="https://github.com/esp32king/Esp32-WiFi-Chat/raw/refs/heads/main/Esp32-WiFi-Chat-On-Captive-Portal.bin">Esp32-WiFi-Chat.bin</a> file ko 0x10000 address par flash karna enough hai.
