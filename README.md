@@ -22,3 +22,4 @@ Chat on Esp32 WiFi In Captive Portal
 Many Users Can Chat 
 
 <h2>Created By Krishna Rajput UP61</h2>
+If Captive Portal Not Open Then Go to `http://192.168.4.1/`
