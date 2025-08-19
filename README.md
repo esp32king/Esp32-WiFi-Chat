@@ -10,14 +10,15 @@ Chat on Esp32 WiFi In Captive Portal
 
 
 👉 Agar aap sirf apna code (sketch) flash karna chahte ho dusre ESP32 me, to sirf <a href="https://github.com/esp32king/Esp32-WiFi-Chat/raw/refs/heads/main/Esp32-WiFi-Chat-On-Captive-Portal.bin">Esp32-WiFi-Chat.bin</a> file ko 0x10000 address par flash karna enough hai.
-<a>This is Username Feature & Duplicate username not allowed</a>
 # Fast Chat
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-WiFi-Chat/refs/heads/main/Files/ScreenShot2.jpg"></img>
 
- This is Chatting
+# This is Username Feature & Duplicate username not allowed
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-WiFi-Chat/refs/heads/main/Files/ScreenShot.jpg"></img>
 
 
-WhatsApp Chat Interface 
+# WhatsApp Chat Interface 
 
 Many Users Can Chat 
+
+# Created By Krishna Rajput UP61
