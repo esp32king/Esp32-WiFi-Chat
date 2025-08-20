@@ -28,3 +28,5 @@ Many Users Can Chat
 If Captive Portal Not Open Then Go to <p>http://192.168.4.1</p>
 
 Give Me Credits For Use
+# Flash On Esp8266
+If You Want This Code For Esp8266 Then Commits 
