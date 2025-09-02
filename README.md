@@ -3,7 +3,7 @@
 Chat on Esp32 WiFi In Captive Portal
 🔹 Flash karne ka tarika (ESP32 Loader App / Flash Tool):
 # Code Flash
-Flash Here 👉 <a href="https://esptool.huhn.com/">Esptool.huhn.com</a>
+Flash Here 👉  <a href="https://esptool.spacehuhn.com">Esptool.spacehuhn.com</a>
 # 2nd Step
 <a href="https://github.com/esp32king/Esp32-WiFi-Chat/raw/refs/heads/main/bootloader.bin">bootloader.bin</a> → 0x1000
 
