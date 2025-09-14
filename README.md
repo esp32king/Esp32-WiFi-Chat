@@ -31,4 +31,4 @@ Give Me Credits For Use
 # Flash On Esp8266
 If You Want This Code For Esp8266 Then Commits  
 video 👇
-[![Watch the video]([https://i.ytimg.com/vi/AOwGbn9QvEQ/oar2.jpg](https://i.ytimg.com/vi/AOwGbn9QvEQ/oar2.jpg))](https://www.youtube.com/shorts/AOwGbn9QvEQ?feature=share)
+[![Watch the video](https://i.ytimg.com/vi/AOwGbn9QvEQ/oar2.jpg)](https://www.youtube.com/shorts/AOwGbn9QvEQ?feature=share)
