@@ -30,4 +30,4 @@ If Captive Portal Not Open Then Go to <p>http://192.168.4.1</p>
 Give Me Credits For Use
 # Flash On Esp8266
 If You Want This Code For Esp8266 Then Commits 
-[![Watch the video]([https://i.ytimg.com/vi/AOwGbn9QvEQ/oar2.jpg](https://i.ytimg.com/vi/AOwGbn9QvEQ/oar2.jpg))](https://www.youtube.com/shorts/AOwGbn9QvEQ?feature=share)
+[![Watch the video]([https://i.ytimg.com/vi/AOwGbn9QvEQ/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLBtoxz1V7htE0DjJjGBspehzO4VHA](https://i.ytimg.com/vi/AOwGbn9QvEQ/oar2.jpg))](https://www.youtube.com/shorts/AOwGbn9QvEQ?feature=share)
