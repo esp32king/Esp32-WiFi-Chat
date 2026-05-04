@@ -1,4 +1,5 @@
-<img src="https://count.getloli.com/get/@esp32king1?theme=rule34" alt="visitor counter"/>
+<img src="https://count.getloli.com/get/@esp32king1?theme=rule3" alt="visitor counter"/>
+
 # Esp32-WiFi-Chat
 
 Chat on Esp32 WiFi In Captive Portal
