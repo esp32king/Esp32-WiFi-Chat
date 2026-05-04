@@ -1,5 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/esp32king&title=views)
-
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/esp32king&title=views" alt="visitor counter" />
 
 # Esp32-WiFi-Chat
 
