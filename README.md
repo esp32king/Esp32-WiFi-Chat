@@ -1,4 +1,4 @@
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/esp32king&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/esp32king/github" />
 
 # Esp32-WiFi-Chat
 
