@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghhvc/?username=esp32king&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" />
+<img src="https://count.getloli.com/get/@esp32king1?theme=rule34" alt="visitor counter"/>
 # Esp32-WiFi-Chat
 
 Chat on Esp32 WiFi In Captive Portal
